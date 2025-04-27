@@ -1,0 +1,3 @@
+Second file here.
+More content for file processing test.
+Let's see how File Processor handles this.

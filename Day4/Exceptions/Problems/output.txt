@@ -1,0 +1,6 @@
+This is the first test file.
+It contains multiple lines.
+Processing this file should be straightforward.
+Second file here.
+More content for file processing test.
+Let's see how File Processor handles this.
